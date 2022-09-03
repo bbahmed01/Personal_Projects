@@ -1,0 +1,14 @@
+this project was developed in python
+
+its just a project that i've started to develop my skills as a developer and not
+steal or harm any property or person.
+
+i started this project the 1st of september and just created an app using a command line that is able the take a url and
+download the video and created a script that when u give it a link for a playlist it relives the links of the diffrent
+videos in it and stores them into a file called linkslist.txt then it can be used by the downloader script to download all
+the videos in the file
+
+what i need to do next is:
+download the files into another location
+make the app update over the internet
+create a graphical interface
